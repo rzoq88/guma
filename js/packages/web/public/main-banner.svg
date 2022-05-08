@@ -34,7 +34,7 @@
      inkscape:current-layer="svg18" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:44.3403px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10851"
+     style="font-style:normal;font-weight:normal;font-size:44.3403px;line-height:1.25;font-family:sans-serif;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.10851"
      x="-2.2563396"
      y="33.923763"
      id="text1514"
@@ -43,5 +43,5 @@
        id="tspan1512"
        x="-2.2563396"
        y="33.923763"
-       style="stroke-width:1.10851">GUMA</tspan></text>
+       style="stroke-width:1.10851;fill:#e6e6e6">GUMA</tspan></text>
 </svg>

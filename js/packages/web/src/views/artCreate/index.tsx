@@ -250,7 +250,7 @@ const CategoryStep = (props: {
       <Row className="call-to-action">
         <h2>Create a new item</h2>
         <p>
-          First time creating on Metaplex?{' '}
+          First time creating on Guma?{' '}
           <a
             href="https://docs.metaplex.com/storefront/create"
             target="_blank"
